@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## JavaScript Assignments
 
 You are provided empty JavaScript files (or having function signatures) in this directory. 
@@ -17,10 +16,3 @@ Feel free to start doing these in any order you like.
 #### Development Setup
 1. If you have Node.js locally, you should run these on your machine 
 2. If you don't, you can copy these over to repl.it and run it there. Tests wont be automated there so you will have to make use judgement to ensure if your code is correct
-=======
-## This is my progress in web development 0-1 course
-- Completed week-1
-- Completed week-2
-- Completed week-3 
-- Completed week-4 
->>>>>>> 243764625509d6cc5b11eac18899c6d65f0a6e75
